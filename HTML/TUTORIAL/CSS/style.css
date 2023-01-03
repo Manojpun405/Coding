@@ -1,0 +1,6 @@
+.box1{
+    width: 500px;
+    height: 200px;
+    border:2px solid green;
+    border-bottom-right-radius: 20px 
+}

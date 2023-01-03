@@ -1,0 +1,44 @@
+.box{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 80%;
+    background-color: red;
+    color: blue;
+    height: 80px;
+    position: fixed;
+    left: 20%;
+    z-index: 1;
+}
+.box1{
+    width: 20%;
+    background-color: yellow;
+    height: 40px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+aside{
+    width: 20%;
+    background-color: green;
+    color: black;
+    height: 100%;
+    position: fixed;
+}
+main{
+   width: 80%;
+   background-color: gray;
+   min-height: 80%;
+   position: absolute;
+   left: 20%;
+   top: 85px; 
+}
+footer{
+    width: 80%;
+    background-color: black;
+    color: #fff;
+    height: 80px;
+    position: fixed;
+    left: 20%;
+    bottom: 0;
+}

@@ -1,0 +1,23 @@
+.box1{
+    background-color: red;
+    width: 70%;
+    height: 500px;
+}
+.box2{
+    background-color: yellow;
+    width: 150px;
+    height: 180px;
+    float: left;
+}
+.box3{
+    background-color: green;
+    width: 150px;
+    height: 180px;
+    float:left;
+}
+.box4{
+    background-color: blue;
+    width: 150px;
+    height: 180px;
+    float: left;
+}
